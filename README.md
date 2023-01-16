@@ -1,7 +1,14 @@
 # Cryptocurrencies Analysis
 
 ## Purpose
-The purpose of this analysis was to find a list of the current cryptocurrencies being traded and group them using K-means clustering. 
+The purpose of this analysis was to find a list of the current cryptocurrencies being traded and group them using unsupervised machine learning. 
+
+## Analysis 
+In total, there are 532 cryptocurrencies being traded.
+
+Using the elbow curve technique, the ideal number of clusters was found to be 4. The majority of the cryptocurrencies were allocated to cluster 0 and 3. 
+
+<img src="https://github.com/teresa-le/Cryptocurrencies/blob/main/Resources/Scatter%20Plot.png">
 
 ## Summary 
-In total, there are 532 cryptocurrencies being traded, and the ideal number of clusters for the crytocurrencies is 4. 
+To expand upon this analysis, more visualizations could be created to determine whether there are other similarities between the cryptocurrencies that belong to the same clusster besides the 'Total Coin Supply' and 'Total Coins Mined.' 
