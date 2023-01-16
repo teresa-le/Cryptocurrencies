@@ -11,4 +11,4 @@ Using the elbow curve technique, the ideal number of clusters was found to be 4.
 <img src="https://github.com/teresa-le/Cryptocurrencies/blob/main/Resources/Scatter%20Plot.png">
 
 ## Summary 
-To expand upon this analysis, more visualizations could be created to determine whether there are other similarities between the cryptocurrencies that belong to the same clusster besides the 'Total Coin Supply' and 'Total Coins Mined.' 
+To expand upon this analysis, more visualizations could be created to determine whether there are other similarities between the cryptocurrencies that belong to the same cluster besides the 'Total Coin Supply' and 'Total Coins Mined.' 
