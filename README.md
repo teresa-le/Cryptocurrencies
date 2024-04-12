@@ -3,6 +3,9 @@
 ## Purpose
 The purpose of this analysis was to find a list of the current cryptocurrencies being traded and group them using unsupervised machine learning. 
 
+## Skills Used 
+Python, Unsupervised machine learning (clustering), Data preprocessing 
+
 ## Analysis 
 In total, there are 532 cryptocurrencies being traded.
 
